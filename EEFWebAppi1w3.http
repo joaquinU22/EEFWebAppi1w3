@@ -1,0 +1,6 @@
+@EEFWebAppi1w3_HostAddress = http://localhost:5019
+
+GET {{EEFWebAppi1w3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
